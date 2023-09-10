@@ -17,7 +17,12 @@ Our primary goal is to gain hands-on experience with Redis and understand its ca
 - Flask (for web application, if applicable)
 
 ## Installation and Usage
-[Provide installation and usage instructions here]
+In order to install redis use below ubuntu command
+- sudo apt install redis-server
+
+## Start redis server
+use below command
+- redis-server
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
