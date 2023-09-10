@@ -17,10 +17,10 @@ Our primary goal is to gain hands-on experience with Redis and understand its ca
 - Flask (for web application, if applicable)
 
 ## Installation and Usage
-In order to install redis use below ubuntu command
-- sudo apt install redis-server
-to Start redis server use below command
-- redis-server
+a. In order to install redis use below ubuntu command
+   - sudo apt install redis-server
+b. to Start redis server use below command
+   - redis-server
 
 
 
