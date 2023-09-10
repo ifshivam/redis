@@ -21,6 +21,8 @@ Our primary goal is to gain hands-on experience with Redis and understand its ca
    - sudo apt install redis-server
 2. to Start redis server use below command
    - redis-server
+3. to connect the server
+   - redis-cli     
 
 
 
