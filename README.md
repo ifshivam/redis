@@ -19,8 +19,7 @@ Our primary goal is to gain hands-on experience with Redis and understand its ca
 ## Installation and Usage
 In order to install redis use below ubuntu command
 - sudo apt install redis-server
-### Start redis server
-use below command
+to Start redis server use below command
 - redis-server
 
 
